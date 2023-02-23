@@ -1,2 +1,2 @@
 # public
-Public and free colab
+Public and free colab projects
